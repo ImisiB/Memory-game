@@ -66,6 +66,9 @@ body{
   top: 657px;
   background-color: orangered;
   color: white;
+  /* height: 100px; */
+  width: 200px;
+  /* display: flex; */
   font-size: 20px;
   font-family: cursive;
   border-top-left-radius: 8px;
